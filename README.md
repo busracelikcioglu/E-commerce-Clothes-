@@ -7,10 +7,10 @@ Bu proje, modern web teknolojileri kullanılarak geliştirdiğim React tabanlı 
 Uygulama geliştirme sürecinde component yapısı, yeniden kullanılabilirlik ve temiz kod prensiplerine özellikle dikkat edilmiştir.
 
 # Kullanılan Teknolojiler
-Vite
-React
-TypeScript
-Tailwind CSS
+- Vite
+- TypeScript
+- React
+- Tailwind CSS
 
 # Projeyi Lokal Ortamda Çalıştırma
 
