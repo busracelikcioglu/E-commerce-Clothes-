@@ -13,16 +13,19 @@ TypeScript
 Tailwind CSS
 
 # Projeyi Lokal Ortamda Çalıştırma
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-# 1. Repository'yi klonlayın
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
-# 2. Proje klasörüne girin
+# Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
 
-# 3. Bağımlılıkları yükleyin
-npm install
+# Step 3: Install the necessary dependencies.
+npm i
 
-# 4. Development server'ı başlatın
+# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
+```
